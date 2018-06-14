@@ -9,4 +9,4 @@ Nel capitolo 1 viene presentato un documento di prova con immagine e tabelle e t
  
 .. toctree::
  
-   docs/documento1.rst
+   docs2/capitolo1.rst
